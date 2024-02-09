@@ -1,7 +1,6 @@
 import java.util.*;
 
-class arrayprg
-{
+class arrayprg{
  public static void main(String args[])
 {
 int arr[]=new int[10];
