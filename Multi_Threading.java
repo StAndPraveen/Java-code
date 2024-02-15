@@ -30,8 +30,8 @@ public class Multi_Threading {
         fibo f = new fibo();
         table t = new table();
         int k = f.getPriority();
-        System.out.println(k);
         f.run();
+        System.out.println(k);
         t.run();
     }
 }

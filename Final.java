@@ -1,4 +1,4 @@
-public class Finally {
+public class Final {
     public static void main(String args[]){
         try{
             System.out.println("Inside try block");
